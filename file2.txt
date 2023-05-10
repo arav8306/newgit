@@ -5,10 +5,5 @@ git
 first
 session
 hope
-<<<<<<< HEAD
 you
 enjoyed
-=======
-i enjoyed
-well
->>>>>>> newbrnch
